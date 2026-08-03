@@ -21,6 +21,12 @@
           "percentage": 70
         }
       ],
+      "institutionalRebate": {
+        "percentage": 50,
+        "description": "Additional 50% rebate on net IFC for Section 12AB institutions and places of worship",
+        "eligibleUsageCodes": ["RELIGIOUS_PLACE"],
+        "eligibleFlags": ["isSection12ABRegistered"]
+      },
       "active": true
     }
   ]

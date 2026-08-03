@@ -706,6 +706,14 @@
       "code": "WS5YRS2024",
       "financialYear": "2024-25"
     },
+	  {
+      "fromDate": 1554057000000,
+      "toDate": 1869676199000,
+      "periodCycle": "TENYEARS",
+      "service": "WS.MUTATION",
+      "code": "WSMUT10YRS",
+      "financialYear": "2024-25"
+    },
     {
       "fromDate": 1711909800000,
       "toDate": 1901212199000,

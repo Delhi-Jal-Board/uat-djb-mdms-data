@@ -687,6 +687,41 @@
       "active": true,
       "type": "STORAGE",
       "demandNormCode": "H-d"
+    },
+    {
+      "name": "Rooming House",
+      "code": "ROOMING_HOUSE",
+      "active": true,
+      "type": "RESIDENTIAL",
+      "demandNormCode": "A-1"
+    },
+    {
+      "name": "Lodging House",
+      "code": "LODGING_HOUSE",
+      "active": true,
+      "type": "RESIDENTIAL",
+      "demandNormCode": "A-1"
+    },
+    {
+      "name": "Hazardous Industry",
+      "code": "HAZARDOUS_INDUSTRY",
+      "active": true,
+      "type": "HAZARDOUS",
+      "demandNormCode": "J"
+    },
+    {
+      "name": "Chemical Plant",
+      "code": "CHEMICAL_PLANT",
+      "active": true,
+      "type": "HAZARDOUS",
+      "demandNormCode": "J"
+    },
+    {
+      "name": "Explosive Storage",
+      "code": "EXPLOSIVE_STORAGE",
+      "active": true,
+      "type": "HAZARDOUS",
+      "demandNormCode": "J"
     }
   ]
 }

@@ -183,6 +183,12 @@
       "active": true
     },
     {
+      "name": "Rooming LodgingHouse",
+      "code": "RoomingOrLodgingHouse",
+      "type": "RESIDENTIAL",
+      "active": true
+    },
+    {
       "name": "Religious places",
       "code": "ReligiousPlaces",
       "type": "ASSEMBLY",
@@ -222,6 +228,12 @@
       "name": "Sports Complex / Golf Course",
       "code": "SportsComplexGolfCourse",
       "type": "STORAGE",
+      "active": true
+    },
+    {
+      "name": "Hazardous Building",
+      "code": "HazardousBuilding",
+      "type": "HAZARDOUS",
       "active": true
     }
   ]

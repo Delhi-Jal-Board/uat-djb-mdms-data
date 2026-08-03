@@ -317,64 +317,6 @@
             ]
         },
         {
-            "propertyTypeCode": "EducationalInstitution",
-            "allowedUsages": [
-                "GOVT_INSTITUTE",
-                "PVT_INSTITUTE",
-                "GOVT_SCHOOLS_GOI",
-                "GOVT_SCHOOLS_GNCTD",
-                "PVT_SCHOOLS"
-            ]
-        },
-        {
-            "propertyTypeCode": "CustodialInstitution",
-            "allowedUsages": [
-                "CUSTODIAL_INSTITUTION"
-            ]
-        },
-        {
-            "propertyTypeCode": "PenalMentalInstitution",
-            "allowedUsages": [
-                "JAIL",
-                "PRISON",
-                "MENTAL_HOSPITAL"
-            ]
-        },
-        {
-            "propertyTypeCode": "AssemblyBuilding",
-            "allowedUsages": [
-                "AUDITORIUMS_MUSEUMS",
-                "CINEMA_THEATRES",
-                "BANQUET_HALL_PARTY_HALL",
-                "ASSEMBLY_HALL",
-                "EXHIBITION_HALL"
-            ]
-        },
-        {
-            "propertyTypeCode": "RestaurantOrCanteen",
-            "allowedUsages": [
-                "RESTAURANT",
-                "CANTEEN",
-                "PANTRY",
-                "DHABA",
-                "SWEET_SHOP"
-            ]
-        },
-        {
-            "propertyTypeCode": "LaboratoryResearchCentre",
-            "allowedUsages": [
-                "LAB_XRAY",
-                "RESEARCH_LAB",
-                "TEST_HOUSE"
-            ]
-        },
-        {
-            "propertyTypeCode": "ComputerInstallation",
-            "allowedUsages": [
-                "COMPUTER_INSTALLATION"
-            ]
-        },
-        {
             "propertyTypeCode": "HazardousBuilding",
             "allowedUsages": [
                 "HAZARDOUS_INDUSTRY",

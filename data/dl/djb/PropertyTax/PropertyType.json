@@ -223,6 +223,18 @@
       "code": "SportsComplexGolfCourse",
       "type": "STORAGE",
       "active": true
+    },
+    {
+      "name": "Rooming LodgingHouse",
+      "code": "RoomingOrLodgingHouse",
+      "type": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "name": "Hazardous Building",
+      "code": "HazardousBuilding",
+      "type": "HAZARDOUS",
+      "active": true
     }
   ]
 }

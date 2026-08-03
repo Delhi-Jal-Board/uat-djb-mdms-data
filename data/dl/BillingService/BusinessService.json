@@ -1160,6 +1160,18 @@
       "billGineiURL": "egov-searcher/bill-genie/waterbills/_get"
     },
     {
+  "businessService": "WS.MUTATION",
+  "code": "WS.MUTATION",
+  "collectionModesNotAllowed": [
+    "DD"
+  ],
+  "partPaymentAllowed": false,
+  "isAdvanceAllowed": false,
+  "isVoucherCreationEnabled": true,
+  "isActive": true,
+  "billGineiURL": "egov-searcher/bill-genie/waterbills/_get"
+},
+    {
       "businessService": "SW.ONE_TIME_FEE",
       "code": "SW.ONE_TIME_FEE",
       "collectionModesNotAllowed": [

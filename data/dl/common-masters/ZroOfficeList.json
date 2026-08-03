@@ -379,6 +379,15 @@
       "description": "",
       "rank": 42,
       "active": true
+    },
+    {
+      "id": 43,
+      "code": "HEAD_QUATER",
+      "name": "AZRO - Head Quater",
+      "address": "Delhi Jal Board Varunalaya, Delhi Jal Board, 149, Jhandewala Mata Marg, Karol Bagh, New Delhi, 110005",
+      "description": "",
+      "rank": 43,
+      "active": true
     }
   ]
 }
