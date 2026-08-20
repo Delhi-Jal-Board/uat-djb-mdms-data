@@ -33943,6 +33943,120 @@
       "actionid": 3024,
       "actioncode": "",
       "tenantId": "dl"
+    },
+        {
+      "rolecode": "WS_CEMP",
+      "actionid": 3025,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WS_CLERK",
+      "actionid": 3025,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WS_DOC_VERIFIER",
+      "actionid": 3025,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WS_FIELD_INSPECTOR",
+      "actionid": 3025,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WS_APPROVER",
+      "actionid": 3025,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 3025,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3026,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 3026,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "SW_CEMP",
+      "actionid": 3026,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "SW_CLERK",
+      "actionid": 3026,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WS_CEMP",
+      "actionid": 3026,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WS_CLERK",
+      "actionid": 3026,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 3027,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 3028,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 3029,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 3030,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 3031,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 3032,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 3033,
+      "actioncode": "",
+      "tenantId": "dl"
     }
   ]
 }

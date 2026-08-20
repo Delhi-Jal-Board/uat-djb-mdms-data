@@ -416,6 +416,16 @@
       "code": "SYSTEM_PAYMENT",
       "name": "System Payment",
       "description": "Role for managing system payments"
+    },
+    {
+      "code": "WS_DEALING_CLERK",
+      "name": "Water Supply Dealing Clerk",
+      "description": "Clerk role for managing water supply dealing and mutation operations"
+    },
+    {
+      "code": "SW_DEALING_CLERK",
+      "name": "Sewerage Dealing Clerk",
+      "description": "Clerk role for managing sewerage dealing and mutation operations"
     }
   ]
 }
