@@ -34057,6 +34057,42 @@
       "actionid": 3033,
       "actioncode": "",
       "tenantId": "dl"
+    },
+     {
+      "rolecode": "EMPLOYEE",
+      "actionid": 3034,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+     {
+      "rolecode": "CITIZEN",
+      "actionid": 3034,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3034,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WS_DOC_VERIFIER",
+      "actionid": 3034,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WS_FIELD_INSPECTOR",
+      "actionid": 3034,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WS_APPROVER",
+      "actionid": 3034,
+      "actioncode": "",
+      "tenantId": "dl"
     }
   ]
 }
