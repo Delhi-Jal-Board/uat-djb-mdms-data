@@ -31665,6 +31665,36 @@
       "tenantId": "dl"
     },
     {
+      "rolecode": "CITIZEN",
+      "actionid": 2414,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "VENDOR_CREATOR",
+      "actionid": 2414,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2414,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2414,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "FSM_ADMIN",
+      "actionid": 2414,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
       "rolecode": "COMMON_VENDOR",
       "actionid": 2064,
       "actioncode": "",
