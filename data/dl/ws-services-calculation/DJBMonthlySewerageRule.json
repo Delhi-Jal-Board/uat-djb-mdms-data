@@ -1,0 +1,13 @@
+{
+  "tenantId": "dl",
+  "moduleName": "ws-services-calculation",
+  "DJBMonthlySewerageRule": [
+    {
+      "code": "WATER_CONNECTED",
+      "name": "Sewer Maintenance for Water Connected Premises",
+      "chargeType": "PERCENTAGE_OF_WATER_VOLUMETRIC_CHARGE",
+      "percentage": 60,
+      "active": true
+    }
+  ]
+}

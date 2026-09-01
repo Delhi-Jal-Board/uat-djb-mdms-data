@@ -31665,6 +31665,36 @@
       "tenantId": "dl"
     },
     {
+      "rolecode": "CITIZEN",
+      "actionid": 2414,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "VENDOR_CREATOR",
+      "actionid": 2414,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2414,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2414,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "FSM_ADMIN",
+      "actionid": 2414,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
       "rolecode": "COMMON_VENDOR",
       "actionid": 2064,
       "actioncode": "",
@@ -34055,6 +34085,42 @@
     {
       "rolecode": "CITIZEN",
       "actionid": 3033,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+     {
+      "rolecode": "EMPLOYEE",
+      "actionid": 3034,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+     {
+      "rolecode": "CITIZEN",
+      "actionid": 3034,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3034,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WS_DOC_VERIFIER",
+      "actionid": 3034,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WS_FIELD_INSPECTOR",
+      "actionid": 3034,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WS_APPROVER",
+      "actionid": 3034,
       "actioncode": "",
       "tenantId": "dl"
     }
