@@ -20933,6 +20933,61 @@
     "serviceCode": "ws-services",
     "code": "null",
     "path": ""
+    },
+    {
+    "id": 3035,
+    "name": "Water Due Verification address based",
+    "url": "/ws-services/wc/due-verification/_search",
+    "displayName": "Water Due Verification",
+    "orderNumber": 0,
+    "enabled": true,
+    "serviceCode": "ws-services",
+    "code": "null",
+    "path": ""
+    },
+    {
+      "id": 3036,
+      "name": "Enter Meter Reading monthly billing",
+      "url": "/ws-calculator/monthly-billing/_search",
+      "displayName": "Enter Meter Reading monthly billing",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "ws-calculator",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 3037,
+      "name": "Zro verfication search",
+      "url": "/ws-calculator/zro-verification/_search",
+      "displayName": "Zro verfication search",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "ws-calculator",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 3038,
+      "name": "Zro verfication fetch",
+      "url": "/ws-calculator/zro-verification/_fetch",
+      "displayName": "Zro verfication fetch",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "ws-calculator",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 3039,
+      "name": "Zro verfication update",
+      "url": "/ws-calculator/zro-verification/_update",
+      "displayName": "Zro verfication update",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "ws-calculator",
+      "code": "null",
+      "path": ""
     }
   ]
 }
