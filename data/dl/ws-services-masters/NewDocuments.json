@@ -6,8 +6,8 @@
       "code": "OWNER.APPLICANTPHOTO",
       "documentType": "OWNER",
       "required": true,
-      "active": false,
-      "hasDropdown": false,
+      "active": true,
+      "hasDropdown": true,
       "description": "Upload Applicant Photo"
     },
     {
@@ -176,6 +176,11 @@
           "code": "OWNER.OTHERDOCUMENTS.12_AB_CERTIFICATE",
           "name": "12 AB Certificate",
           "active": false
+        },
+        {
+          "code": "OWNER.OTHERDOCUMENTS.OTHER_DOCUMENTS",
+          "name": "Other Documents",
+          "active": true
         }
       ],
       "description": "OWNER.OTHERDOCUMENTS.OTHERDOCUMENTS_DESCRIPTION"

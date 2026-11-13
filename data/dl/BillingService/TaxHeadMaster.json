@@ -5981,6 +5981,26 @@
       "isActualDemand": true,
       "order": "106",
       "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "WS.MUTATION",
+      "name": "Occupier Security Charge",
+      "code": "WS_OCCUPY_SECURITY_CHARGE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "107",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "WS.ONE_TIME_FEE",
+      "name": "Additional Infrastructure Charge",
+      "code": "WS_ADDITIONAL_INFRASTRUCTURE_CHARGE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "108",
+      "isRequired": false
     }
   ]
 }

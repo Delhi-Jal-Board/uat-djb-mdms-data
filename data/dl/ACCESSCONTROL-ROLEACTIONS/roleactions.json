@@ -32547,12 +32547,6 @@
       "tenantId": "dl"
     },
     {
-      "rolecode": "CITIZEN",
-      "actionid": 2976,
-      "actioncode": "",
-      "tenantId": "dl"
-    },
-    {
       "rolecode": "WT_VENDOR",
       "actionid": 2411,
       "actioncode": "",
@@ -34361,6 +34355,41 @@
     {
       "rolecode": "BC_DOR",
       "actionid": 2024,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2051,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2052,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2054,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+   {
+      "rolecode": "CITIZEN",
+      "actionid": 3041,
+      "actioncode": "",
+      "tenantId": "dl"
+    },{
+      "rolecode": "SUPERUSER",
+      "actionid": 3041,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WS_FIELD_INSPECTOR",
+      "actionid": 3041,
       "actioncode": "",
       "tenantId": "dl"
     }
